@@ -3,5 +3,5 @@
 void main()
 {
 printf("Welcome to Horizon+ 2k19");
-  printf("Hello Participants!!!");
+printf("Hello Participants!!!");
 }
